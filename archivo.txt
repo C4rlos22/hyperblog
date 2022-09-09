@@ -1,0 +1,4 @@
+Esta es la histaoria de Carlos Osma
+
+Intentando aprender java script, luego git y mas 
+adelante, veremos...
