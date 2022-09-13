@@ -59,3 +59,11 @@ body
     text-align: center;
     padding: 00.5em;
 }
+
+#post #logo2
+{
+    width: 70%;
+    display: block;
+    margin: auto;
+        
+}
