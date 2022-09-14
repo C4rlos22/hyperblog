@@ -6,3 +6,5 @@ adelante, veremos...
 Tengo que leer un libro en busca de otros caminos
 
 Hoy debo ir hacer mercado
+
+Estoy aprendiendo bastante de Git y GitHub
